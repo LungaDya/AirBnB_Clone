@@ -1,0 +1,438 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ruby Mafaku",
+      "email": "rubymafaku@gmail.com",
+      "phone": "1-700-565-5467"
+    },
+    {
+      "id": "2",
+      "name": "Dave Lafortune",
+      "email": "davefortune@gmail.com",
+      "phone": "1-700-555-5467"
+    },
+    {
+      "id": "d56a",
+      "email": "olivier@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "43a7",
+      "email": "olivier2@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "email": "olivier@gmail.com",
+      "password": "bestPassw0rd",
+      "id": "3uYDFBH"
+    }
+  ],
+  "bookings": [
+    {
+      "listingId": 1,
+      "startDate": "2022-07-20",
+      "endDate": "2022-07-20",
+      "userId": 1,
+      "id": "da7a"
+    }
+  ],
+  "listings": [
+    {
+      "id": "1",
+      "src": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE2MjI1MjI0NDQ0MzYzMjM4Mg%3D%3D/original/ae3426d1-fba4-44d4-bed2-690426f25f7a.jpeg?im_w=1440&im_q=highq",
+      "title": "Online Experiences",
+      "description": "Unique activities we can do together, let by a world host.",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 53537,
+      "address": "sydney road",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": 2000,
+      "sq_ft": 4.2,
+      "email": "rubymafaku@gmail.com",
+      "userId": 2
+    },
+    {
+      "id": "2",
+      "src": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjMyMzc5Mzc2MTc3OTEzMg%3D%3D/original/01819c16-43a1-4aee-9957-9edce6eb8e16.png?im_w=1440&im_q=highq",
+      "title": "barbie's malibu DreamHouse, Ken's Way",
+      "description": "Hosted by Ken",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 53537,
+      "address": "sydney road",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": "$350 / Night",
+      "sq_ft": 4.2,
+      "email": "rubymafaku@gmail.com",
+      "userId": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "2",
+      "title": "airbnb-clone",
+      "author": "lafortune"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "body": "Another comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typiccode"
+  },
+  "login": [
+    {
+      "id": "4dc4",
+      "email": "olivier@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "ebd3",
+      "email": "olivier@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "4345",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "ed69",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "f8c7",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "930d",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "849d",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "0570",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "7290",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "f6a4",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "ef99",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "bf4d",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "b615",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "2255",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "48ff",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "2d8a",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "956f",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "32ba",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "692b",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "57c0",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "84c0",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "0aad",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "d362",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "ef7b",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "dc52",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "51d6",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "3e76",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "cefd",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "09b2",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "2aaf",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "fa1c",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "1f25",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "8d3b",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "22ad",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "6b82",
+      "email": "olivier@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "dc1b",
+      "email": "olivier@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "4c45",
+      "email": "olivier@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "6b7b",
+      "email": "olivier@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "e836",
+      "email": "olivier@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "2efd",
+      "email": "olivier@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "6958",
+      "email": "olivier@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "103b",
+      "email": "olivier@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "06fa",
+      "email": "olivier@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "a8e7",
+      "email": "olivier@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "2298",
+      "email": "olivier@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "13e7",
+      "email": "olivier@gmail.com",
+      "password": "ffffffffff"
+    },
+    {
+      "id": "78fe",
+      "email": "olivier@gmail.com",
+      "password": "ffffffffff"
+    },
+    {
+      "id": "8192",
+      "email": "olivier@gmail.com",
+      "password": "ffffffffff"
+    },
+    {
+      "id": "61ad",
+      "email": "olivier@gmail.com",
+      "password": "ffffffffff"
+    },
+    {
+      "id": "e413",
+      "email": "davefortune527@gmail.com",
+      "password": "deniseda"
+    },
+    {
+      "id": "795a",
+      "email": "olivier2@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "7d68",
+      "email": "olivier2@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "e079",
+      "email": "olivier2@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "376f",
+      "email": "olivier2@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "d2f3",
+      "email": "olivier2@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "3281",
+      "email": "olivier2@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "e303",
+      "email": "olivier2@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "6447",
+      "email": "olivier2@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "8044",
+      "email": "olivier2@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "c37f",
+      "email": "olivier2@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "36cb",
+      "email": "olivier2@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "56bd",
+      "email": "olivier@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "3d9d",
+      "email": "olivier@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "id": "d72c",
+      "email": "olivier@gmail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "email": "olivier@gmail.com",
+      "password": "bestPassw0rd",
+      "id": "5Lj-Upu"
+    },
+    {
+      "email": "olivier@gmail.com",
+      "password": "bestPassw0rd",
+      "id": "9q0YgGG"
+    },
+    {
+      "email": "olivier33@gmail.com",
+      "password": "bestPassw0rd",
+      "id": "CyLnhfB"
+    }
+  ]
+}

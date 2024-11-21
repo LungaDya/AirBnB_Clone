@@ -1,0 +1,56 @@
+# GET ALL THE USERS
+GET http://localhost:3000/users HTTP/1.1
+###
+
+# GET A SINGLE USER
+GET http://localhost:3000/users?id=2 HTTP/1.1
+###
+
+# REGISTER USER
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+  "email": "olivier@gmail.com",
+  "password": "bestPassw0rd"
+}
+###
+// Login
+
+POST http://localhost:3000/login
+Content-Type: application/json
+
+{
+  "email": "olivier33@gmail.com",
+  "password": "bestPassw0rd"
+}
+
+###
+
+# GET ALL THE BOOKINGS
+GET http://localhost:3000/bookings HTTP/1.1
+###
+
+# GET ALL THE BOOKINGS FOR A USER
+GET http://localhost:3000/bookings?userId=1 HTTP/1.1
+###
+
+# GET ALL THE LISTINGS
+GET http://localhost:3000/listings HTTP/1.1
+###
+
+# GET ALL THE COMMENTS
+GET http://localhost:3000/comments HTTP/1.1
+###
+
+# POST A COMMENT
+POST http://localhost:3000/comments
+Content-Type: application/json
+
+{
+  "id": 2,
+  "body": "Another comment",
+  "postId": 1
+}
+
+
